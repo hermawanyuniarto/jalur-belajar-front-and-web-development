@@ -7,4 +7,5 @@ alias graph="git log --all --oneline --decorate --graph"
 #video Paragraf (5/13) - lanjut
 #Video Heading (6/13) - lanjut
 #Video List (7/13) - lanjut
-#Video Hiperlink (8/13) -
+#Video Hiperlink (8/13) - lanjut
+#Video Image (9/13) -
