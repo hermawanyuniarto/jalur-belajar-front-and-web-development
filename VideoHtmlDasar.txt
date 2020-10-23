@@ -1,3 +1,5 @@
+rm -rf namafolderepo/.git
+alias graph="git log --all --oneline --decorate --graph"
 #Video Pendahuluan HTML (1/13) - lanjut
 #Video Hello World! (2/13) - lanjut
 #Video Code Editor (3/13) - lanjut
