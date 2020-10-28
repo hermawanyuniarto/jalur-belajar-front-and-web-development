@@ -11,3 +11,4 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video Image (9/13) - lanjut
 #Video Table (10/13) - lanjut
 #Video Table Merging (11/13) - lanjut
+#Video Form (12/13) - lanjut
