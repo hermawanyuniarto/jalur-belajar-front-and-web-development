@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan Form</title>
+</head>
+
+<style>
+    .tabel-tengah{
+        position: absolute;
+        left: 500px;
+        top: 100px;
+    }
+
+    td{
+        padding: 7px;
+    }
+
+    .text1, .text2{
+        text-align: right;
+    }
+
+    .radio-tengah{
+        text-align: center;
+    }
+
+    .check-tengah{
+        text-align: center;
+    }
+
+    .text3{
+        text-align: right;
+    }
+
+    .text4{
+        text-align: right;
+    }
+
+    .button1{
+        text-align: center;
+    }
+</style>
+
+<body>
+    
+    <table border="1" cellspacing="0" cellpadding="5" class="tabel-tengah">
+        <tr>
+            <td class="text1"><label for="text">Text :</label></td>
+            <td><input type="text" id="text"></td>
+        </tr>
+        <tr>
+            <td class="text2"><label for="password">Password :</label></td>
+            <td><input type="password" id="password"></td>
+        </tr>
+        <tr>
+            <td colspan="2" class="radio-tengah"><label for="radio1">Radio 1</label><input type="radio" id="radio1" name="keterangan"><label for="radio2">Radio 2</label><input type="radio" id="radio2" name="keterangan"></td>
+        </tr>
+        <tr>
+            <td colspan="2" class="check-tengah"><label for="checkbox1">Checkbox 1</label><input type="checkbox" id="checkbox1"><label for="checkbox2">Checkbox 2</label><input type="checkbox" id="checkbox2"></td>
+        </tr>
+        <tr>
+            <td class="text3"><label for="combobox">Combo Box :</label></td>
+            <td>
+                <select>
+                    <option value="">Nasi Goreng</option>
+                    <option value="">Gulai</option>
+                    <option value="">Sate Kambing</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td class="text4"><label for="textarea">Textarea :</label></td>
+            <td><textarea name="" id="textarea" cols="30" rows="10"></textarea></td>
+        </tr>
+        <tr>
+            <td colspan="2" class="button1"><button type="submit">Kirim</button></td>
+        </tr>
+    </table>
+
+</body>
+</html>
