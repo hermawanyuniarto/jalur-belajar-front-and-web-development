@@ -13,4 +13,5 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video Table Merging (11/13) - lanjut
 #Video Form (12/13) - lanjut
 #Video Form Lanjtan (13/13) - lanjut
-#Video CSS Dasar -1- Pendahuluan
+#Video CSS Dasar -1- Pendahuluan - lanjut
+#Video CSS Dasar -2- Anatomi CSS - lanjut
