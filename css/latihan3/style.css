@@ -1,3 +1,8 @@
 h1 {
-    color: skyblue;
+    font-size: 150px;
+    color: coral;
+}
+
+p {
+    text-align: justify;
 }
