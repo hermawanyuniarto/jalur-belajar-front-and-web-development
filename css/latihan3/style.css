@@ -6,6 +6,7 @@ h1 {
 p {
     text-align: justify;
     text-indent: 50px;
+    text-transform: capitalize;
 }
 
 a {
