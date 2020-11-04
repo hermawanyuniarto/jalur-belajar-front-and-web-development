@@ -1,7 +1,7 @@
 h1 {
     font-size: 150px;
     color: coral;
-    text-decoration: overline;
+    text-decoration: line-through;
 }
 
 p {
