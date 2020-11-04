@@ -16,4 +16,4 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video CSS Dasar -1- Pendahuluan - lanjut
 #Video CSS Dasar -2- Anatomi CSS - lanjut
 #Video CSS Dasar -3- Penempatan CSS - lanjut
-#Video CSS Dasar -4- Font Styling - 9.49
+#Video CSS Dasar -4- Font Styling - lanjut
