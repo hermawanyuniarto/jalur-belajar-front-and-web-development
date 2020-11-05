@@ -19,3 +19,4 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video CSS Dasar -4- Font Styling - lanjut
 #Video CSS Dasar -5- Text Styling - lanjut
 #Video CSS Dasar -6- Background - lanjut
+#Video CSS Dasar -7- Selector - lanjut
