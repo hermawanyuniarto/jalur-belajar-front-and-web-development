@@ -20,3 +20,7 @@
 li:nth-child(odd) a {
     color: green;
 }
+
+li:nth-child(odd) a:hover {
+    color: red;
+}
