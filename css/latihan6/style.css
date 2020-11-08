@@ -17,6 +17,6 @@
 }
 
 
-li:nth-child(3n-2) a {
+li:nth-child(even) a {
     color: green;
 }
