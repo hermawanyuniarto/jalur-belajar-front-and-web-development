@@ -15,3 +15,12 @@
 .hello:visited {
     color: red;
 }
+
+
+li:first-child a {
+    color: green;
+}
+
+li:last-child a {
+    color: green;
+}
