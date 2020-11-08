@@ -24,3 +24,11 @@ li:nth-child(odd) a {
 li:nth-child(odd) a:hover {
     color: red;
 }
+
+p:first-of-type {
+    color: blue;
+}
+
+p:last-of-type {
+    color: yellow;
+}
