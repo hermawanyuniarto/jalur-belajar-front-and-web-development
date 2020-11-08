@@ -17,6 +17,6 @@
 }
 
 
-li:nth-child(even) a {
+li:nth-child(odd) a {
     color: green;
 }
