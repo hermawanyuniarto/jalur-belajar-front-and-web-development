@@ -22,3 +22,4 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video CSS Dasar -7- Selector - lanjut
 #Video CSS Dasar -8- Pseudo Class - lanjut
 #Video CSS Dasar -9- Inheritance - lanjut
+#Video CSS Dasar -10- Specificity - lanjut
