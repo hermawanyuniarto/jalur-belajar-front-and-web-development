@@ -26,4 +26,4 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video CSS Layouting -1- Display - lanjut
 #Video CSS Layouting -2- Dimesi & Overflow - lanjut
 #video CSS Layouting -3- Box Model Margin - lanjut
-#Video CSS Layouting -5- Box Model padding, border & Box Sizing - 12:59
+#Video CSS Layouting -5- Box Model padding, border & Box Sizing - lanjut
