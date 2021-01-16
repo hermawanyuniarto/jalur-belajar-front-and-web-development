@@ -29,4 +29,5 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video CSS Layouting -4- Box Model padding, border & Box Sizing - lanjut
 #Video CSS Layouting -5- Box Model CSS Reset - lanjut
 #Video CSS Layouting -6- Box Model Website Sederhana - lanjut
-#Video CSS Layouting -8- Float - 5:02
+#Video CSS Layouting -8- Float - lanjut
+#Video CSS Layouting -9- Clear
