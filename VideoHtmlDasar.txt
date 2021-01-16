@@ -31,4 +31,4 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video CSS Layouting -6- Box Model Website Sederhana - lanjut
 #Video CSS Layouting -8- Float - lanjut
 #Video CSS Layouting -9- Clear - lanjut
-#Video CSS Layouting -10- Float : Membuat Website Sederhana (Part 2)
+#Video CSS Layouting -10- Float : Membuat Website Sederhana (Part 2) - 5:12
