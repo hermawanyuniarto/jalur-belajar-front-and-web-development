@@ -1,6 +1,7 @@
 div {
     width: 200px;
     height: 200px;
+    margin: auto;
 }
 
 .satu {
@@ -9,11 +10,18 @@ div {
 
 .dua {
     background-color: violet;
-    position: relative;
-    top: 30px;
-    left: 50px;
+    position: absolute;
+    left: 0;
+    top: 0;
 }
 
 .tiga {
     background-color: gold;
+}
+
+.container {
+    width: 600px;
+    height: 650px;
+    border: 10px solid green;
+    position: relative;
 }
