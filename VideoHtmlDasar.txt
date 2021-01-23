@@ -32,4 +32,6 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video CSS Layouting -8- Float - lanjut
 #Video CSS Layouting -9- Clear - lanjut
 #Video CSS Layouting -10- Float : Membuat Website Sederhana (Part 2) - lanjut
-#Video CSS Layouting -11- Position : Static & Relative
+#Video CSS Layouting -11- Position : Static & Relative - lanjut
+#Video CSS Layouting -12- Position : Absolute & Fixed - lanjut
+#Video CSS Layouting -13- Index & penggunaan lain dari position
