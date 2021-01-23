@@ -1,3 +1,7 @@
+body {
+    height: 2000px;
+}
+
 div {
     width: 200px;
     height: 200px;
@@ -10,7 +14,9 @@ div {
 
 .dua {
     background-color: violet;
-    position: absolute;
+    position: fixed;
+    height: 40px;
+    width: 100%;
     left: 0;
     top: 0;
 }
