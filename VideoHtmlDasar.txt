@@ -35,4 +35,4 @@ alias graph="git log --all --oneline --decorate --graph"
 #Video CSS Layouting -11- Position : Static & Relative - lanjut
 #Video CSS Layouting -12- Position : Absolute & Fixed - lanjut
 #Video CSS Layouting -13- Index & penggunaan lain dari position - lanjut
-#Video CSS Layouting -14- Latihan Position
+#Video CSS Layouting -14- Latihan Position - lanjut
